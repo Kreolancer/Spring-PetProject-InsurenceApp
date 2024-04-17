@@ -1,1 +1,0 @@
-INSERT INTO insurance_schema.classifiers (title, description) VALUES ('RISK_TYPE', 'Travel policy risk type classifier');
