@@ -1,8 +1,0 @@
-Test Case 1:
-UUID is correct
-Response: success, without errors.
-
-
-Test Case 2:
-UUID is not correct
-Response: error.

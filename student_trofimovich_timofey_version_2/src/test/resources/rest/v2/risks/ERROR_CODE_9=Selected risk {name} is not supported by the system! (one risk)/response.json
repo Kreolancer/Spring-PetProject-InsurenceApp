@@ -1,8 +1,0 @@
-{
-  "errors": [
-    {
-      "errorCode": "ERROR_CODE_9",
-      "description": "Selected risk TRAVEL_UNSUPPORTED is not supported by the system!"
-    }
-  ]
-}
