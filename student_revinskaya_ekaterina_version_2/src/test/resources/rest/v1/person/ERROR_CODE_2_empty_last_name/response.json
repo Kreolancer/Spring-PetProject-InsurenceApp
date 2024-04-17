@@ -1,8 +1,0 @@
-{
-  "errors": [
-    {
-      "errorCode": "ERROR_CODE_2",
-      "description": "person which personal code is 1313131: Field personLastName is empty!"
-    }
-  ]
-}
