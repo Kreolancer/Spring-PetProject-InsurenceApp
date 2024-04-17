@@ -1,9 +1,0 @@
-{
-  "errors": [
-    {
-      "errorCode": "ERROR_CODE_3",
-      "description": "Field agreementDateTo must be in the future!"
-    }
-  ],
-  "agreement" : null
-}
